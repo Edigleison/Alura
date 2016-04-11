@@ -1,0 +1,56 @@
+body {
+    font-family: "Crimson Text", "Times New Roman", serif;
+    background-color: #F2FFFC;
+}
+
+h1, h2{
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+}
+
+main h1 {
+    padding: 25px;
+    font-size: 60px;
+    background-color: #851944;
+    color: #FFF;
+    text-align: center;
+}
+
+main a{
+    color: #851944;
+}
+
+h2{
+    font-size: 40px;
+    font-family: "Arial", sans-serif;
+}
+
+p{
+    text-align: justify;
+}
+
+blockquote{
+    background-color: #D9E5E3;
+}
+
+aside{
+    background-color: #3C1D3D;
+    color: #F2FFFC;
+}
+
+nav{
+    color: inherit;
+}
+
+aside a{
+    color: #F2FFFC;
+    font-family: "Open Sans Condensed", sans-serif;
+}
+
+footer{
+    background-color: #000;
+    color: #F2FFFC;
+}
+
+blockquote, aside, footer {
+    padding: 20px;
+}
