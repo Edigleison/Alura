@@ -8,14 +8,50 @@ h1, h2{
     font-family: "Open Sans Condensed", "Arial", sans-serif;
 }
 
+blockquote {
+    margin: 20px 40px 20px 40px;
+}
+
+h1{
+    font-size: 60px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+aside h1{
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
+main div{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+strong{
+    font-weight: bold;
+}
+
+em{
+    font-style: italic;
+}
+
 main h1 {
     padding: 25px;
-    font-size: 60px;
     background-color: #851944;
     color: #FFF;
     text-align: center;
     border-bottom: 10px solid black;
 }
+
+
 
 main div {
     margin-left: auto;
