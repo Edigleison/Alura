@@ -100,11 +100,11 @@ aside a{
     font-family: "Open Sans Condensed", sans-serif;
 }
 
-aside nav li{
+aside li{
     display: block;
 }
 
-aside li{
+.icones-sociais li{
     display: inline-block;
 }
 
