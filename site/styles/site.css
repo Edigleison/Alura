@@ -44,14 +44,17 @@ em{
 }
 
 main h1 {
-    padding: 25px;
-    background-color: #851944;
-    color: #FFF;
+    background-color: white;
+    color: #3C1D3D;
+    padding: 61px;
     text-align: center;
     border-bottom: 3px solid black;
 }
 
-
+main{
+    float: left;
+    width: 85%;
+}
 
 main div {
     margin-left: auto;
@@ -61,15 +64,29 @@ main div {
 
 aside{
     text-align: center;
+    width: 15%;
+    background-color: #3C1D3D;
+    color: #F2FFFC;
+    box-sizing: border-box;
+    float: right;
 }
 
 main a{
     color: #851944;
 }
 
+
+.foto-principal{
+    width: 202.344px;
+    height: 211.766px;
+    float: right;
+    border-bottom: 3px solid black;
+}
+
 h2{
     font-size: 40px;
     font-family: "Arial", sans-serif;
+    clear: both;
 }
 
 p{
@@ -84,11 +101,6 @@ blockquote{
     
     width: 250px;
     box-sizing: border-box;
-}
-
-aside{
-    background-color: #3C1D3D;
-    color: #F2FFFC;
 }
 
 nav{
@@ -117,3 +129,13 @@ blockquote, aside, footer {
     padding: 20px;
 }
 
+.citacao-fiat{
+    float: right;
+}
+.citacao-pretrobras{
+    float: left;
+}
+
+footer{
+    clear: both;
+}
