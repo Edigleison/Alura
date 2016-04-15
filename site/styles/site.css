@@ -8,19 +8,45 @@ h1, h2{
     font-family: "Open Sans Condensed", sans-serif;
 }
 
-.leia-mais{
-    font-weight: bold;
-    color: #851944;
-    font-size: 15px;
+h2{
+    font-size: 40px;
+    font-family: "Arial", sans-serif;
+    clear: both;
 }
 
-.citacao {
-    background-color: #D9E5E3;
-    border: none;
-    border-bottom-color: #333;
-    border-right-color: #FFF;    
-    width: 250px;
-    box-sizing: border-box;
+p{
+    text-align: justify;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+strong{
+    font-weight: bold;
+}
+
+em{
+    font-style: italic;
+}
+
+main div{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 720px;
+}
+
+main{
+    float: left;
+    width: 100%;
+}
+
+main a{
+    color: #851944;
+}
+
+footer{
+    clear: both;
 }
 
 .titulo-principal{
@@ -41,49 +67,6 @@ h1, h2{
 
 .sub-titulo{
     font-size: 30px;
-}
-
-p {
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-
-main div{
-    margin-bottom: 30px;
-    margin-top: 30px;
-}
-
-strong{
-    font-weight: bold;
-}
-
-em{
-    font-style: italic;
-}
-
-main{
-    float: left;
-    width: 100%;
-}
-
-main div {
-    margin-left: auto;
-    margin-right: auto;
-    width: 720px;
-}
-
-main a{
-    color: #851944;
-}
-
-h2{
-    font-size: 40px;
-    font-family: "Arial", sans-serif;
-    clear: both;
-}
-
-p{
-    text-align: justify;
 }
 
 .navegacao {
@@ -139,31 +122,8 @@ p{
     background-image: url(/images/linkedin.png);
 }
 
-blockquote {
-    padding: 20px;
-}
-
-article footer{
-    padding-bottom: 30px;
-    border-bottom: 1px solid #ccc;
-    margin-bottom: 20px;
-}
-
 .rodape-pagina{
     background-color: #000;
     color: #F2FFFC;
     padding: 20px;
-}
-
-.citacao-fiat{
-    margin: 20px 0px 20px 20px;
-    float: right;
-}
-.citacao-pretrobras{
-    margin: 20px 20px 20px 0px;
-    float: left;
-}
-
-footer{
-    clear: both;
 }

@@ -1,0 +1,11 @@
+.leia-mais{
+    font-weight: bold;
+    color: #851944;
+    font-size: 15px;
+}
+
+article footer{
+    padding-bottom: 30px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+}
