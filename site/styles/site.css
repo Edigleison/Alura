@@ -111,15 +111,15 @@ footer{
 }
 
 .github{
-    background-image: url(/images/github.png);
+    background-image: url(../images/github.png);
 }
 
 .twitter{
-    background-image: url(/images/twitter.png);
+    background-image: url(../images/twitter.png);
 }
 
 .linkedin{
-    background-image: url(/images/linkedin.png);
+    background-image: url(../images/linkedin.png);
 }
 
 .rodape-pagina{
