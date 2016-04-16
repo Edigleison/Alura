@@ -1,23 +1,16 @@
-.listaPortifolio div{
-    padding: 10px;
-    width: 50%;
-    box-sizing: border-box;    
-    height: 200px;    
+.portfolio li {
+    display: inline-block;
+    border: 2px solid black;
+    background-color: #FAFFFC;
+    width: 324px;
+    height: 251px;
+    box-sizing: border-box;
+    padding: 16px;
+    margin-right: 16px;
+    margin-bottom: 16px;
 }
 
-.bmw{
-    float: left;
-}
-
-.ibm{
-    float: left;
-}
-
-.uol{
-    float: right;
-}
-
-.g1{
-    float: right;
+.portfolio img {
+    width: 100%;
 }
 
